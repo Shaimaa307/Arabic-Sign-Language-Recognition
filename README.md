@@ -42,8 +42,7 @@ To run and reproduce the experiments, please follow these steps:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/YourUsername/ArSL-YOLO-CNN.git
-cd ArSL-YOLO-CNN
+https://github.com/Shaimaa307/Arabic-Sign-Language-Recognition/blob/main/ALS%20%20kaggel%20Notebook%20Code.ipynb
 
 ```
 
