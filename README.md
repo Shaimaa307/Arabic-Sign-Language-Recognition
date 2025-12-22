@@ -53,10 +53,8 @@ cd ArSL-YOLO-CNN
 ```bash
 pip install tensorflow keras numpy pandas matplotlib
 
-```
 
 
-4. **Execution:** Run the cells sequentially within the `notebooke21cd1d0ab (8).ipynb` notebook for training, evaluation, and reporting.
 
 ## 🛣️ Future Work and Roadmap
 
